@@ -1,0 +1,15 @@
+site_name: "Bharat AI Verse - Docs"
+site_url: "https://docs.bharataiverse.com"
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Abstract: abstract.md
+  - Problem: problem.md
+  - Solution: solution.md
+  - Tokenomics: tokenomics.md
+  - Roadmap: roadmap.md
+  - Team: team.md
+  - FAQ: faq.md
